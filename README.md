@@ -11,7 +11,7 @@ Using **Python, MS SQL SERVER, and Power BI**, companies can visualize key suppl
 
 # Supply Chain Management Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/5f739d62-0a94-4f1c-a59a-0863abc4f9a6/ReportSection?experience=power-bi
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/8d42a5e4-9ebd-46c7-bf6a-a66f2648c422/ReportSection?experience=power-bi
 
 ## Problem Statement
 
